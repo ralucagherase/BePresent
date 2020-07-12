@@ -1,0 +1,9 @@
+E:\Licenta Lucian\BePresent.Services.Interface\bin\Debug\netcoreapp3.1\BePresent.Services.Interface.deps.json
+E:\Licenta Lucian\BePresent.Services.Interface\bin\Debug\netcoreapp3.1\BePresent.Services.Interface.dll
+E:\Licenta Lucian\BePresent.Services.Interface\bin\Debug\netcoreapp3.1\BePresent.Services.Interface.pdb
+E:\Licenta Lucian\BePresent.Services.Interface\obj\Debug\netcoreapp3.1\BePresent.Services.Interface.csprojAssemblyReference.cache
+E:\Licenta Lucian\BePresent.Services.Interface\obj\Debug\netcoreapp3.1\BePresent.Services.Interface.csproj.CoreCompileInputs.cache
+E:\Licenta Lucian\BePresent.Services.Interface\obj\Debug\netcoreapp3.1\BePresent.Services.Interface.AssemblyInfoInputs.cache
+E:\Licenta Lucian\BePresent.Services.Interface\obj\Debug\netcoreapp3.1\BePresent.Services.Interface.AssemblyInfo.cs
+E:\Licenta Lucian\BePresent.Services.Interface\obj\Debug\netcoreapp3.1\BePresent.Services.Interface.dll
+E:\Licenta Lucian\BePresent.Services.Interface\obj\Debug\netcoreapp3.1\BePresent.Services.Interface.pdb

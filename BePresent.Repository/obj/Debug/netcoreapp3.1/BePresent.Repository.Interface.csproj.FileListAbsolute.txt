@@ -1,0 +1,12 @@
+E:\Licenta Lucian\BePresent.Repository\bin\Debug\netcoreapp3.1\BePresent.Repository.Interface.deps.json
+E:\Licenta Lucian\BePresent.Repository\bin\Debug\netcoreapp3.1\BePresent.Repository.Interface.dll
+E:\Licenta Lucian\BePresent.Repository\obj\Debug\netcoreapp3.1\BePresent.Repository.Interface.csprojAssemblyReference.cache
+E:\Licenta Lucian\BePresent.Repository\obj\Debug\netcoreapp3.1\BePresent.Repository.Interface.AssemblyInfoInputs.cache
+E:\Licenta Lucian\BePresent.Repository\obj\Debug\netcoreapp3.1\BePresent.Repository.Interface.AssemblyInfo.cs
+E:\Licenta Lucian\BePresent.Repository\obj\Debug\netcoreapp3.1\BePresent.Repository.Interface.csproj.CoreCompileInputs.cache
+E:\Licenta Lucian\BePresent.Repository\bin\Debug\netcoreapp3.1\BePresent.Repository.Interface.pdb
+E:\Licenta Lucian\BePresent.Repository\bin\Debug\netcoreapp3.1\BePresent.Resources.dll
+E:\Licenta Lucian\BePresent.Repository\bin\Debug\netcoreapp3.1\BePresent.Resources.pdb
+E:\Licenta Lucian\BePresent.Repository\obj\Debug\netcoreapp3.1\BePresent.Repository.Interface.csproj.CopyComplete
+E:\Licenta Lucian\BePresent.Repository\obj\Debug\netcoreapp3.1\BePresent.Repository.Interface.dll
+E:\Licenta Lucian\BePresent.Repository\obj\Debug\netcoreapp3.1\BePresent.Repository.Interface.pdb

@@ -1,0 +1,9 @@
+E:\Licenta Lucian\BePresent.Auth.Implementation\bin\Debug\netcoreapp3.1\BePresent.Auth.Implementation.deps.json
+E:\Licenta Lucian\BePresent.Auth.Implementation\bin\Debug\netcoreapp3.1\BePresent.Auth.Implementation.dll
+E:\Licenta Lucian\BePresent.Auth.Implementation\bin\Debug\netcoreapp3.1\BePresent.Auth.Implementation.pdb
+E:\Licenta Lucian\BePresent.Auth.Implementation\obj\Debug\netcoreapp3.1\BePresent.Auth.Implementation.csprojAssemblyReference.cache
+E:\Licenta Lucian\BePresent.Auth.Implementation\obj\Debug\netcoreapp3.1\BePresent.Auth.Implementation.csproj.CoreCompileInputs.cache
+E:\Licenta Lucian\BePresent.Auth.Implementation\obj\Debug\netcoreapp3.1\BePresent.Auth.Implementation.AssemblyInfoInputs.cache
+E:\Licenta Lucian\BePresent.Auth.Implementation\obj\Debug\netcoreapp3.1\BePresent.Auth.Implementation.AssemblyInfo.cs
+E:\Licenta Lucian\BePresent.Auth.Implementation\obj\Debug\netcoreapp3.1\BePresent.Auth.Implementation.dll
+E:\Licenta Lucian\BePresent.Auth.Implementation\obj\Debug\netcoreapp3.1\BePresent.Auth.Implementation.pdb
