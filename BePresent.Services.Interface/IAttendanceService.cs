@@ -2,7 +2,7 @@
 
 namespace BePresent.Services.Interface
 {
-    public class Class1
+    public interface IAttendanceService
     {
     }
 }
