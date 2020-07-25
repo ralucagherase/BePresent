@@ -4,4 +4,8 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\BePresent.Repository.Implementation\BePresent.Repository.Implementation.csproj" />
+  </ItemGroup>
+
 </Project>

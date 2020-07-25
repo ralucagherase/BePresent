@@ -4,6 +4,176 @@
     "E:\\Licenta Lucian\\BePresent.Services.Interface\\BePresent.Services.Interface.csproj": {}
   },
   "projects": {
+    "E:\\Licenta Lucian\\BePresent.Repository.Implementation\\BePresent.Repository.Implementation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Licenta Lucian\\BePresent.Repository.Implementation\\BePresent.Repository.Implementation.csproj",
+        "projectName": "BePresent.Repository.Implementation",
+        "projectPath": "E:\\Licenta Lucian\\BePresent.Repository.Implementation\\BePresent.Repository.Implementation.csproj",
+        "packagesPath": "C:\\Users\\raluc\\.nuget\\packages\\",
+        "outputPath": "E:\\Licenta Lucian\\BePresent.Repository.Implementation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\raluc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\Licenta Lucian\\BePresent.Repository\\BePresent.Repository.Interface.csproj": {
+                "projectPath": "E:\\Licenta Lucian\\BePresent.Repository\\BePresent.Repository.Interface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Licenta Lucian\\BePresent.Repository\\BePresent.Repository.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Licenta Lucian\\BePresent.Repository\\BePresent.Repository.Interface.csproj",
+        "projectName": "BePresent.Repository.Interface",
+        "projectPath": "E:\\Licenta Lucian\\BePresent.Repository\\BePresent.Repository.Interface.csproj",
+        "packagesPath": "C:\\Users\\raluc\\.nuget\\packages\\",
+        "outputPath": "E:\\Licenta Lucian\\BePresent.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\raluc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\Licenta Lucian\\BePresent.Resources\\BePresent.Resources.csproj": {
+                "projectPath": "E:\\Licenta Lucian\\BePresent.Resources\\BePresent.Resources.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Licenta Lucian\\BePresent.Resources\\BePresent.Resources.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Licenta Lucian\\BePresent.Resources\\BePresent.Resources.csproj",
+        "projectName": "BePresent.Resources",
+        "projectPath": "E:\\Licenta Lucian\\BePresent.Resources\\BePresent.Resources.csproj",
+        "packagesPath": "C:\\Users\\raluc\\.nuget\\packages\\",
+        "outputPath": "E:\\Licenta Lucian\\BePresent.Resources\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\raluc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "E:\\Licenta Lucian\\BePresent.Services.Interface\\BePresent.Services.Interface.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -26,7 +196,11 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "projectReferences": {}
+            "projectReferences": {
+              "E:\\Licenta Lucian\\BePresent.Repository.Implementation\\BePresent.Repository.Implementation.csproj": {
+                "projectPath": "E:\\Licenta Lucian\\BePresent.Repository.Implementation\\BePresent.Repository.Implementation.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

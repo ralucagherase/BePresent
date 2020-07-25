@@ -29,6 +29,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\BePresent.Repository.Implementation\BePresent.Repository.Implementation.csproj" />
+    <ProjectReference Include="..\BePresent.Services.Interface\BePresent.Services.Interface.csproj" />
   </ItemGroup>
 
   <Target Name="DebugEnsureNodeEnv" BeforeTargets="Build" Condition=" '$(Configuration)' == 'Debug' And !Exists('$(SpaRoot)node_modules') ">

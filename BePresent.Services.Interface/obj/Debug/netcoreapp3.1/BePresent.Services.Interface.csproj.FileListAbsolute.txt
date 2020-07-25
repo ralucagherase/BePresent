@@ -7,3 +7,10 @@ E:\Licenta Lucian\BePresent.Services.Interface\obj\Debug\netcoreapp3.1\BePresent
 E:\Licenta Lucian\BePresent.Services.Interface\obj\Debug\netcoreapp3.1\BePresent.Services.Interface.AssemblyInfo.cs
 E:\Licenta Lucian\BePresent.Services.Interface\obj\Debug\netcoreapp3.1\BePresent.Services.Interface.dll
 E:\Licenta Lucian\BePresent.Services.Interface\obj\Debug\netcoreapp3.1\BePresent.Services.Interface.pdb
+E:\Licenta Lucian\BePresent.Services.Interface\bin\Debug\netcoreapp3.1\BePresent.Repository.Implementation.dll
+E:\Licenta Lucian\BePresent.Services.Interface\bin\Debug\netcoreapp3.1\BePresent.Repository.Interface.dll
+E:\Licenta Lucian\BePresent.Services.Interface\bin\Debug\netcoreapp3.1\BePresent.Resources.dll
+E:\Licenta Lucian\BePresent.Services.Interface\bin\Debug\netcoreapp3.1\BePresent.Repository.Implementation.pdb
+E:\Licenta Lucian\BePresent.Services.Interface\bin\Debug\netcoreapp3.1\BePresent.Repository.Interface.pdb
+E:\Licenta Lucian\BePresent.Services.Interface\bin\Debug\netcoreapp3.1\BePresent.Resources.pdb
+E:\Licenta Lucian\BePresent.Services.Interface\obj\Debug\netcoreapp3.1\BePresent.Services.Interface.csproj.CopyComplete
