@@ -1,7 +1,7 @@
-﻿using System;
+﻿using BePresent.Repository.Implementation.Entities;
+using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
-using BePresent.Repository.Implementation.Entities;
 
 namespace BePresent.Services.Interface
 {
@@ -11,6 +11,6 @@ namespace BePresent.Services.Interface
         Task<Attendance> GetAttendance(DateTime dateTime);
         Task<Attendance> CreateAttendance(Attendance attendance);
         Task UpdateAttendance(DateTime dateTime, Attendance attendance);
-        Task DeleteAttendance(DateTime dateTime);
+        Task DeleteAttendance(Attendance attendance);
     }
 }

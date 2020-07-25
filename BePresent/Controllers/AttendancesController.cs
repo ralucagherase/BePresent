@@ -1,13 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using BePresent.Repository.Implementation.Entities;
+using BePresent.Services.Interface;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Logging;
+using System;
 using System.Linq;
 using System.Threading.Tasks;
-using BePresent.Repository.Implementation.Entities;
-using BePresent.Services.Interface;
-using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.Logging;
 
 namespace BePresent.Controllers
 {
@@ -62,7 +59,7 @@ namespace BePresent.Controllers
 
             var createdAttendance = await _attendanceService.CreateAttendance(attendance);
 
-            return CreatedAtAction("GetAttendance", new { id = attendance.DateTime }, createdAttendance);
+            return Ok(createdAttendance);
         }
 
         [HttpPut("{id}")]
@@ -97,7 +94,7 @@ namespace BePresent.Controllers
                 return NotFound();
             }
 
-            await _attendanceService.DeleteAttendance(id);
+            await _attendanceService.DeleteAttendance(attendance);
 
             return NoContent();
         }
